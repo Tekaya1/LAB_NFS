@@ -170,11 +170,6 @@ sudo yum install autofs
 
 ---
 
-### 2. Forcer la lecture locale dans `/etc/autofs.conf`
-
-Éditer le fichier :
----
-
 ### 3. Modifier `/etc/auto.master`
 
 Ajouter la ligne :
